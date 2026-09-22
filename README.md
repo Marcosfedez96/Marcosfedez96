@@ -1,4 +1,4 @@
-# Hola, soy Marcos 👋
+# Hola, soy Marcos
 
 Desarrollador backend en formación constante, enfocado en **.NET**. Construyo APIs REST con C# y ASP.NET Core.
 
@@ -13,7 +13,7 @@ Desarrollador backend en formación constante, enfocado en **.NET**. Construyo A
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat&logo=windows&logoColor=white)
 ---
 
 ### En qué estoy trabajando
