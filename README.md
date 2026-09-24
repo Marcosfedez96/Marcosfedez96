@@ -2,7 +2,7 @@
 
 Desarrollador backend en formación constante, enfocado en **.NET**. Construyo APIs REST con C# y ASP.NET Core.
 
-🌐 [Portafolio](https://marcosfedez96.github.io) · 📫 [marcosef4496@gmail.com](mailto:marcosef4496@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/marcos-fernández-62ba751b8)
+🌐 [Portafolio](https://marcosfedez96.github.io) · 📫 [marcosfedez96.contacto@gmail.com](mailto:marcosfedez.contacto96@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/marcos-fernández-62ba751b8)
 
 ---
 
